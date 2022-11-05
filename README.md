@@ -1,6 +1,6 @@
 # team-demo-next-s3-firebase-spaces-stripe
 
-# 🚀 🚀
+# 🚀 team demo next s3 firebase Digitalocean spaces stripe mailgun 🚀
 
 https://github.com/coding-to-music/team-demo-next-s3-firebase-spaces-stripe
 
