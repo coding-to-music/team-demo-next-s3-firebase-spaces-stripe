@@ -1,5 +1,5 @@
 {
-  "name": "1stkare-web",
+  "name": "team-demo-next-s3-firebase-spaces-stripe",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "analyze": "cross-env ANALYZE=true next build",
     "build": "next build",
     "start": "next start",
+    "deploy": "git add . && git commit -m Build && git push",
     "lint": "next lint && prettier --check pages src",
     "format": "next lint --fix && prettier --check --write pages src",
     "codegen": "graphql-codegen --config codegen.yml"
