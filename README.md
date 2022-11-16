@@ -1,5 +1,7 @@
 # team-demo-next-s3-firebase-spaces-stripe
 
+Has a UI but can't save, can't process zip code data entry. Not sure how to make this work.
+
 # 🚀 team demo next s3 firebase Digitalocean spaces stripe mailgun 🚀
 
 https://github.com/coding-to-music/team-demo-next-s3-firebase-spaces-stripe
